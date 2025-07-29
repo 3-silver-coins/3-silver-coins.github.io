@@ -1,0 +1,17 @@
+{
+  "project_git" : {
+    "sha1" : "e19402f51fedf215d366867ccb4889acd32280e8",
+    "origin" : "https://github.com/PabloGuido/merge_garden",
+    "branch" : "cosas"
+  },
+  "bob_arguments" : {
+    "sha1" : "7a0e23b3fcab4c5db82f2b32f5d8ac5df9467c9d",
+    "version" : "1.10.2",
+    "timestamp" : "2025-06-11 15:51:49"
+  },
+  "defold_sdk" : "7a0e23b3fcab4c5db82f2b32f5d8ac5df9467c9d",
+  "dependencies" : [ {
+    "link" : "https://github.com/britzl/defold-orthographic/archive/master.zip",
+    "md5" : "7743A4E02C94BD4B0F3F757D2CB66AC8"
+  } ]
+}
