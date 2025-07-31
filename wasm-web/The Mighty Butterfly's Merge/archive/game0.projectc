@@ -180,8 +180,8 @@ scale_mode = stretch
 transparent_graphics_context = 0
 
 [particle_fx]
-max_count = 64
-max_emitter_count = 64
+max_count = 512
+max_emitter_count = 512
 max_particle_count = 1024
 
 [network]
