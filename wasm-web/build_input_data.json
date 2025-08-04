@@ -1,8 +1,8 @@
 {
   "project_git" : {
-    "sha1" : "fa5fc1a99046606e8e4c12da338cc2b0a6706d7a",
+    "sha1" : "994dd35d5e46bfa74985ee713ada4e9c16a16a8e",
     "origin" : "https://github.com/PabloGuido/merge_garden",
-    "branch" : "haciendo_cosas_nomas"
+    "branch" : "main"
   },
   "bob_arguments" : {
     "sha1" : "7a0e23b3fcab4c5db82f2b32f5d8ac5df9467c9d",
