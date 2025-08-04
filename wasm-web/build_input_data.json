@@ -1,8 +1,8 @@
 {
   "project_git" : {
-    "sha1" : "6dd2568752d69a4a19499805486ac5842ce048da",
+    "sha1" : "fa5fc1a99046606e8e4c12da338cc2b0a6706d7a",
     "origin" : "https://github.com/PabloGuido/merge_garden",
-    "branch" : "probando_particulas"
+    "branch" : "haciendo_cosas_nomas"
   },
   "bob_arguments" : {
     "sha1" : "7a0e23b3fcab4c5db82f2b32f5d8ac5df9467c9d",
@@ -13,5 +13,8 @@
   "dependencies" : [ {
     "link" : "https://github.com/britzl/defold-orthographic/archive/master.zip",
     "md5" : "7743A4E02C94BD4B0F3F757D2CB66AC8"
+  }, {
+    "link" : "https://github.com/britzl/defold-input/archive/refs/tags/4.7.0.zip",
+    "md5" : "E06E0788BE727C56075BF265B15AE86D"
   } ]
 }
